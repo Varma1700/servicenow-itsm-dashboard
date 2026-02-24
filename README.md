@@ -19,7 +19,8 @@ Designed and built a fully customized ServiceNow dashboard from scratch to monit
 Improved operational visibility into ticket workload, resolution progress, and team performance metrics. Enabled better decision-making for service management.
 
 ## Screenshot
-![Dashboard Screenshot] SNow_ITSM_Dashboard.png
+![Dashboard Screenshot](SNow_ITSM_Dashboard.png)
+
 ## What I Learned
 - Advanced ServiceNow dashboard configuration
 - Creating meaningful KPIs for IT operations
